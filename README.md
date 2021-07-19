@@ -12,5 +12,5 @@ De momento me estoy enfocando en las siguientes tecnologías
 
 
 
-Algún día mejoraré este readme, mientras tanto puedes visitar [mi web](https://versallesz.github.io/ "mi web") para mayor información.
+Algún día mejoraré este readme, mientras tanto puedes visitar [mi web](https://versallesz.github.io/ "mi web") para mayor información 😋
 
